@@ -57,6 +57,7 @@ public class fileCompare {
         reader1.close();
          
         reader2.close();
+        System.out.println("File compare done");
 		
 	}
 	
