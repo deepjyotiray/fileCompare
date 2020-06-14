@@ -1,0 +1,2 @@
+module fileCompare2 {
+}
