@@ -49,7 +49,7 @@ public class fileCompare {
         }
         else
         {
-            System.out.println("Two files have different content. They differ at line "+lineNum);
+            System.out.println("Different file contents differing at "+lineNum);
              
             System.out.println("File1 has "+line1+" and File2 has "+line2+" at line "+lineNum);
         }
